@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.col-2{
+  padding-top: 40px;
+  background-color: #dddddd;
+  height: 100vh;
+}
+
+.col-10{
+  background-color: #ffffff;
+  height: 100vh;
+} 
